@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+  }
+  body{
+    background-image: url(/img/58\ \(1\).jpg);
+     width: 100%;
+    background-size: 100% 100%;
+    height: 900px; 
+    justify-content: center;
+  }
+  nav {
+    font-family: Dancing Script;
+    font-size: larger;
+   
+  }
+  header{
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+  }
+  header img{
+    backdrop-filter: blur(20px); 
+    box-shadow: 0 0 10px rgb(0, 0, .2); 
+    border-radius: 20px;
+  }
+  header h1{
+    font-family: Dancing Script;
+    font-size: 50px;
+}
+ p{
+  
+    font-family: Dancing Script;
+    font-size: 30px;
+   margin: 10px;
+ 
+}
+.about-text{
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+   
+  
+}
+  

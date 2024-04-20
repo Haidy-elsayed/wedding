@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+  }
+
+nav {
+    font-family: Dancing Script;
+    font-size: larger;
+   
+  }
+
+ header img{
+    height: 400px;
+    
+  }
